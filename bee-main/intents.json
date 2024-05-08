@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "How are you"],
+            "responses": ["வணக்கம்", "ஹலோ", "நலமா?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": ["பிரியா விடை", "பின்னர் சந்திப்போம்", "குட்பை"]
+        }
+    ]
+}
